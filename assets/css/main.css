@@ -186,7 +186,7 @@ text-transform: uppercase;
 }
 
 #our-salon{
-    background-image: url('img/salon-bg.png');
+    background-image: url(../../img/salon-bg.png);
     height: 541px;
 }
 
@@ -285,7 +285,7 @@ margin: auto;
 }
 
 #subscribe{
-    background-image: url('img/salon-bg.png');
+    background-image: url(../../img/salon-bg.png);
     height: 478px;
 }
 
